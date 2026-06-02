@@ -1,0 +1,4 @@
+# ninja log v5
+0	4720	1764129374644676594	/home/wlc/HME-Net/models/DAMamba/ops_dcnv3/build/temp.linux-x86_64-cpython-310/home/wlc/HME-Net/models/DAMamba/ops_dcnv3/src/cpu/dcnv3_cpu.o	7a2ceb2a2128de23
+1	15145	1764129385076890563	/home/wlc/HME-Net/models/DAMamba/ops_dcnv3/build/temp.linux-x86_64-cpython-310/home/wlc/HME-Net/models/DAMamba/ops_dcnv3/src/vision.o	215a185847629bd3
+1	40700	1764129410591395929	/home/wlc/HME-Net/models/DAMamba/ops_dcnv3/build/temp.linux-x86_64-cpython-310/home/wlc/HME-Net/models/DAMamba/ops_dcnv3/src/cuda/dcnv3_cuda.o	76cfc6bae16a87e2
